@@ -1,4 +1,4 @@
-/* styles.css */
+/* CSS Styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f9;
@@ -10,12 +10,12 @@ body {
 }
 
 .container {
-    background-color: white;
+    background-color: grey;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
     text-align: center;
-    width: 350px;
+    width: 1000px;
 }
 
 h1 {
@@ -51,7 +51,7 @@ button:hover {
     background-color: #0056b3;
 }
 
-#result, #total-result {
+#calculations, #total-result {
     margin-top: 20px;
     font-size: 1.2em;
 }
